@@ -16,7 +16,8 @@ HTMLオリジナル課題制作物として下記2点の画面を作成しまし
 
 ### アカウント作成ページ
 
-![image](https://github.com/makikouhei/originalhtml/blob/main/pages-register.html)
+<img src="docs/スクリーンショット 2024-04-16 18.32.09.png" width="45%">
 
 ### ダッシュボード
-![image](https://github.com/makikouhei/originalhtml/blob/main/pages-blank.html)
+
+<img src="docs/スクリーンショット 2024-04-16 18.32.13.png" width="45%">
