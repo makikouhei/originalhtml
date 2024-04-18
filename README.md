@@ -16,7 +16,7 @@ HTMLオリジナル課題制作物として下記2点の画面を作成しまし
 
 ### アカウント作成ページ
 
-[index2.html](public/pages-register.html → forms/pages-register.html)
+[index2.html](public/forms/pages-register.html)
 
 <img src="docs/スクリーンショット 2024-04-18 14.23.22.png" width="45%">
 
